@@ -1,0 +1,77 @@
+h1{
+    margin: 0%;
+    font-size: 70px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    margin: 0%;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.principal{
+    background-image: url("../imgs/avion.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 20%;
+    padding: 50px;
+    border: 0%;
+    margin: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+
+    color:black;
+}
+
+.semana{
+    line-height: 80px;
+    margin-top: 0%;
+    border: 0%;
+    background-color: brown;
+}
+
+.semana p{
+    color: white;
+    font-style: normal;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.productos{ 
+    color: black;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 85%;
+    margin: auto;
+}
+
+.productos img{
+    width: 300px;
+    border-radius: 10px;
+}
+
+.productos td{
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+
+}
+
+.footer{
+    background-color: black;
+    height: 150px;
+}
+
+.footer p{
+    color: white;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 150px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
